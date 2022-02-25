@@ -1,6 +1,6 @@
 <?php  
 /*
-Ejercicio6.
+Ejercicio# 6.
 
 realizar los siguientes pasos en su respectivo orden.
 - Crear una variable llamada “ladoCuadrado” de valor 8.

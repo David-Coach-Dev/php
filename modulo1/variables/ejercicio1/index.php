@@ -1,6 +1,6 @@
 <?php  
 /*
-Ejercicio 1.
+Ejercicio # 1.
 
 crea las siguientes variables según tu
 criterio:
@@ -13,20 +13,20 @@ colombianos.
 - Mostrar el contenido de todas las variables haciendo uso de
 var_dump.
 */
-$nombre="david Hernando Caycedo Blum";
-$x=2.22;
-CONST DOLARPESOS=3931.17;
-$pi=3.1415926;
-$euler=2.718281828459045;
-echo "Resolución del ejercicio 1.<br>";
-echo "<br>La variable nombre es ";
-var_dump($nombre);
-echo "<br>La variable x es ";
-var_dump($x);
-echo "<br>La variable constante de cambio de peso a dolares es ";
-var_dump(DOLARPESOS);
-echo "<br>La variable pi es ";
-var_dump($pi);
-echo "<br>La variable euler es ";
-var_dump($euler);
+	$nombre="david Hernando Caycedo Blum";
+	$x=2.22;
+	CONST DOLARPESOS=3931.17;
+	$pi=3.1415926;
+	$euler=2.718281828459045;
+	echo "Resolución del ejercicio 1.<br>";
+	echo "<br>La variable nombre es ";
+	var_dump($nombre);
+	echo "<br>La variable x es ";
+	var_dump($x);
+	echo "<br>La variable constante de cambio de peso a dolares es ";
+	var_dump(DOLARPESOS);
+	echo "<br>La variable pi es ";
+	var_dump($pi);
+	echo "<br>La variable euler es ";
+	var_dump($euler);
 ?>

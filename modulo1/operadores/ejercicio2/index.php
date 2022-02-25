@@ -1,6 +1,6 @@
 <?php  
 /*
-Ejercicio 2.
+Ejercicio # 2.
 
 Realizar los siguientes pasos en su respectivo
 orden:
@@ -15,13 +15,11 @@ número dos.
 - Calcular la división de la variable número uno dividida la variable
 número dos.
 - Mostrar los resultados de cada operación.
-
 */
-$valor1=9;
-$valor2=7;
-
-echo "Resolución del ejercicio 2.<br><br>La suma de ".$valor1." + ".$valor2." = ".$valor1+$valor2.
-	 "<br>La resta de ".$valor1." - ".$valor2." = ".$valor1-$valor2.
-	 "<br>La multiplicación de ".$valor1." * ".$valor2." = ".$valor1*$valor2.
-	 "<br>La divición de ".$valor1." / ".$valor2." = ".$valor1/$valor2;
+	$valor1=9;
+	$valor2=7;
+	echo "Resolución del ejercicio 2.<br><br>La suma de ".$valor1." + ".$valor2." = ".$valor1+$valor2.
+		 "<br>La resta de ".$valor1." - ".$valor2." = ".$valor1-$valor2.
+		 "<br>La multiplicación de ".$valor1." * ".$valor2." = ".$valor1*$valor2.
+		 "<br>La divición de ".$valor1." / ".$valor2." = ".$valor1/$valor2;
 ?>

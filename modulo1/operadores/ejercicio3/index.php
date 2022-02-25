@@ -1,6 +1,6 @@
 <?php  
 /*
-Ejercicio 3.
+Ejercicio # 3.
 
 Realizar los siguientes pasos en su respectivo
 orden:
@@ -11,17 +11,14 @@ orden:
 auxiliar).
 - Mostrar los resultados de ambas variables.
 */
-
-$numerouno=8;
-$numerodos=2;
-$aux=0;
-echo "Resolución del ejercicio 3.<br><br>Numero uno es igual a ". $numerouno.
-	 "<br>Numero dos es igual a ". $numerodos;
-$aux=$numerouno;
-$numerouno=$numerodos;
-$numerodos=$aux;
-echo "<br>Intercamcio de valores entre numero uno y numero dos<br>Numero uno es igual a ". $numerouno.
-	 "<br>Numero dos es igual a ". $numerodos;
-
-
+	$numerouno=8;
+	$numerodos=2;
+	$aux=0;
+	echo "Resolución del ejercicio 3.<br><br>Numero uno es igual a ". $numerouno.
+		 "<br>Numero dos es igual a ". $numerodos;
+	$aux=$numerouno;
+	$numerouno=$numerodos;
+	$numerodos=$aux;
+	echo "<br>Intercamcio de valores entre numero uno y numero dos<br>Numero uno es igual a ". $numerouno.
+		 "<br>Numero dos es igual a ". $numerodos;
 ?>
