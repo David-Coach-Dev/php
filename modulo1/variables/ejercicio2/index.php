@@ -6,6 +6,7 @@ Realizar los siguientes pasos en su respectivo orden.
 Corrija las siguientes variables y declaraciones de
 acuerdo a las características de las variables vistas.
 */
+echo "Resolución del ejercicio 2.<br>";
 //constatnte Pi;
 	const PI=0;
 //nombre="david";

@@ -4,9 +4,9 @@ Ejercicio # 4.
 
 Realizar el punto ejercicio 3 con el operador ternario.
 */
+	echo "Resolución del ejercicio 4.<br>";
 	$num1=rand(1,10);
 	$num2=rand(1,10);
-	echo "Resolución del ejercicio 4.<br>";
 	echo "El numero uno es ".$num1.".";
 	echo "<br>El numero dos es ".$num2.".";
 	

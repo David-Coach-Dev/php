@@ -6,9 +6,9 @@ Dados dos números enteros, determinar cuál es el mayor por medio de
 una condicional y realizar una potencia con el número menor como
 exponente.
 */
+	echo "Resolución del ejercicio 3.<br>";
 	$num1=rand(1,10);
 	$num2=rand(1,10);
-	echo "Resolución del ejercicio 3.<br>";
 	echo "El numero uno es ".$num1;
 	echo "<br>El numero dos es ".$num2;
 	if ($num1 != $num2)
